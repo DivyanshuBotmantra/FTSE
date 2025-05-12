@@ -2,9 +2,8 @@ import sys
 import pdfplumber
 import json
 import re
-import pandas as pd
 import traceback
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 pdf_path = "./FTSE All-Share Index Fund.pdf"
 output_json_path = "./final_output_pdf_to_json.json"
@@ -17,38 +16,54 @@ def group_words_by_line(words, tolerance=1.5):
         lines[top_key].append(word)
     return lines
 
-# Font style detection based on font name's number
-def detect_font_style(font_name):
-    font_lower = font_name.lower()
+# Detect font style based on fontname
+def detect_font_style_from_chars(chars):
+    styles = []
+    for c in chars:
+        font_name = c.get("fontname", "").lower()
+        try:
+            font_number = int(re.search(r'-(\d+)', font_name).group(1))
+        except (AttributeError, ValueError):
+            font_number = None
 
-    # Extract the number after the '-' in the font name (e.g., UniversCom-55Oblique)
-    try:
-        font_number = int(re.search(r'-(\d+)', font_name).group(1))  # Extracts number after '-'
-    except AttributeError:
-        font_number = None  # If no number is found, set it to None
+        is_bold = (font_number is not None and font_number > 45) or "bold" in font_name or "bd" in font_name
+        is_italic = "italic" in font_name or "oblique" in font_name or "it" in font_name
 
-    # Determine if the font is bold based on the extracted number
-    if font_number is not None and font_number > 45:
-        is_bold = True
+        if is_bold and is_italic:
+            styles.append("Bold Italic")
+        elif is_bold:
+            styles.append("Bold")
+        elif is_italic:
+            styles.append("Italic")
+        else:
+            styles.append("Regular")
+
+    if styles:
+        return Counter(styles).most_common(1)[0][0]
     else:
-        is_bold = "bold" in font_lower or "bd" in font_lower  # Fallback to text-based detection
+        return "Unknown"
 
-    # Determine if the font is italic
-    is_italic = "italic" in font_lower or "oblique" in font_lower or "it" in font_lower
+# Get font info for a single word
+def get_word_font_info(word, chars):
+    matched_chars = [
+        c for c in chars
+        if c['x0'] >= word['x0'] and c['x1'] <= word['x1'] and
+           c['top'] >= word['top'] and c['bottom'] <= word['bottom']
+    ]
+    if not matched_chars:
+        return {"fontname": "", "size": None, "style": "Unknown"}
 
-    # Return the appropriate font style
-    if is_bold and is_italic:
-        return "Bold Italic"
-    elif is_bold:
-        return "Bold"
-    elif is_italic:
-        return "Italic"
-    else:
-        return "Regular"
-    
+    fontname = matched_chars[0].get("fontname", "")
+    size = matched_chars[0].get("size", None)
+    style = detect_font_style_from_chars(matched_chars)
 
+    return {
+        "fontname": fontname,
+        "size": size,
+        "style": style
+    }
 
-# Extract structured info
+# Extract structured PDF data
 def extract_pdf_to_json(pdf_path):
     formatted_data = []
 
@@ -65,16 +80,13 @@ def extract_pdf_to_json(pdf_path):
 
             for top_key in sorted(grouped_lines):
                 line_words = sorted(grouped_lines[top_key], key=lambda w: w['x0'])
-                
                 line_text = " ".join([w['text'] for w in line_words])
 
-                # Bounding box
                 x0 = min(w['x0'] for w in line_words)
                 x1 = max(w['x1'] for w in line_words)
                 top = min(w['top'] for w in line_words)
                 bottom = max(w['bottom'] for w in line_words)
 
-                # Get all chars in this line range (bounding box match)
                 line_chars = [
                     c for c in chars
                     if c['x0'] >= x0 and c['x1'] <= x1 and c['top'] >= top and c['bottom'] <= bottom
@@ -83,7 +95,7 @@ def extract_pdf_to_json(pdf_path):
                 if line_chars:
                     fontname = line_chars[0].get("fontname", "")
                     size = line_chars[0].get("size", None)
-                    font_style = detect_font_style(fontname)
+                    font_style = detect_font_style_from_chars(line_chars)
                 else:
                     fontname = ""
                     size = None
@@ -114,7 +126,8 @@ def extract_pdf_to_json(pdf_path):
                             "x0": w["x0"],
                             "x1": w["x1"],
                             "top": w["top"],
-                            "bottom": w["bottom"]
+                            "bottom": w["bottom"],
+                            "font": get_word_font_info(w, chars)
                         }
                         for w in line_words
                     ]
@@ -124,10 +137,12 @@ def extract_pdf_to_json(pdf_path):
 
     return formatted_data
 
-
-# Run & Save Output
-final_data = extract_pdf_to_json(pdf_path)
-with open(output_json_path, "w", encoding="utf-8") as f:
-    json.dump(final_data, f, indent=2)
-
-print(f"✅ Structured data with accurate font styles saved to: {output_json_path}")
+# Run and Save
+try:
+    final_data = extract_pdf_to_json(pdf_path)
+    with open(output_json_path, "w", encoding="utf-8") as f:
+        json.dump(final_data, f, indent=2)
+    print(f"✅ Structured data with per-word font info saved to: {output_json_path}")
+except Exception as e:
+    print("❌ Error occurred while processing PDF:")
+    traceback.print_exc()
