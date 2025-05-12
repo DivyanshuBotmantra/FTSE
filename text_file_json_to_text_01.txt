@@ -1,0 +1,3908 @@
+            34   FTSE ALL-SHARE INDEX FUND
+
+
+            FTSE All-Share Index Fund
+
+
+              Investment Objective
+
+
+              The Fund aims to track the performance of the FTSE All-Share Index (the “Index”) before the deduction of charges and tax.
+
+
+              Investment Policy*
+
+
+              The Index represents the performance of all shares on the main market of the London Stock Exchange, as defined by the
+
+
+              Index provider.
+
+
+              The Fund may invest in different types of derivatives for efficient portfolio management, including hedging. In particular
+
+
+              the Fund may use derivatives to help it manage cash flows and dividend payments with the aim of generating returns
+
+
+              that are consistent with the Index. The use of derivatives will be consistent with the risk profile of the Fund.
+
+
+              Investment Strategy*
+
+
+              The Fund will invest in a representative sample of the shares (equities) of companies that make up the Index and
+
+
+              possibly some securities that are not included in the Index that are designed to help the Fund track the performance
+
+
+              of the Index.
+
+
+              The Fund may not invest in all the companies of the Index to manage transaction costs or to reflect market conditions,
+
+
+              regulations or HSBC’s banned weapons policy.
+
+
+              The Fund may hold cash and other funds, including funds managed by the HSBC Group, to manage day-to-day cash
+
+
+              flow requirements.
+
+
+              The Fund’s performance is measured against the Index, because the Fund intends to track the performance of the Index.
+
+
+              *For details of the full Investment Policy and Strategy please refer to the HSBC Index Tracker Investment Funds
+
+
+              prospectus. We have also published a Glossary of key terms used which you may wish to refer to. Both documents
+
+
+              can be found at https://www.assetmanagement.hsbc.co.uk/en/individual-investor/fund-centre.
+
+
+              Portfolio Activity
+
+
+              The FTSE All-Share Index was up circa 13.0% during the reporting period. The FTSE-All Share Index is an aggregation
+
+
+              of the FTSE 100, FTSE 250 and FTSE Small Cap indices, with the first two indices representing over 90% of the total
+
+
+              Index weight. Hence, the performance of the FTSE 100 and 250 explain most of the performance of the FTSE All Share.
+
+
+              Industrials, Financials and Energy were the best performing sectors, while Consumer Staples mildly weighed on returns.
+
+
+              UK equities fell early in the reporting period, as markets faced several headwinds in the form of falling energy and
+
+
+              commodity prices, a strong Sterling which impacted export-based companies, and hawkish sentiment from the Bank of
+
+
+              England (BoE). Conversely, UK equities performed well in Q3 2023, buoyed by a surge in oil prices and Sterling weakness
+
+
+              against the US dollar, as inflation showed signs of easing through the quarter. The BoE’s decision to keep rates on hold
+
+
+              in September surprised markets, and ended a 14-session streak of rate hikes. UK equities rose over the fourth quarter,
+
+
+              boosted by a huge cross-asset rally in everything in November and December. Small- and mid-cap equities outperformed
+
+
+              large-caps (which also rose), as a strong Sterling weighed on returns of larger companies. While GDP data in February
+
+
+              confirmed a technical recession in H2 2023, consequent macro data releases were relatively upbeat, suggesting that the
+
+
+              recession was shallow. More recently, GDP data for Q1 beat expectations, confirming the UK economy has moved out
+
+
+              of a technical recession. The UK seems to be bottoming out and with inflationary pressures under control, we could see
+
+
+              rate cuts materialise in line with expectations, although there is uncertainty surrounding the trajectory of the rate path.
+
+
+              Resurgent wage growth could delay rate cuts and pose challenges for earnings.
+
+
+            35   FTSE ALL-SHARE INDEX FUND
+
+
+              Investment Performance
+
+
+              During the year under review, the value of the shares in the Fund increased by 12.57% while the value of the FTSE
+
+
+              All-Share Index rose by 12.98%.
+
+
+              (Source: Morningstar Direct, GBP, UK net of tax, for the Accumulation C share class. Returns based on the NAV,
+
+
+              which is a single price.)
+
+
+              Please note that the above information refers to the past and that past performance is not a reliable indication
+
+
+              of future returns.
+
+
+              Tracking Error
+
+
+              Tracking error - 0.06%
+
+
+              The tracking error is based on gross returns from our internal performance system using closing valuations for the
+
+
+              period to 30.04.24.
+
+
+              We manage our Index funds with two equally important objectives - (1) close Index tracking and (2) minimising transaction
+
+
+              costs. As a result of broader market dynamics tracking error has been slightly elevated over the first half of the year
+
+
+              primarily due to the impact of the Russia-Ukraine conflict, where stocks linked to Russia were deleted from the Index
+
+
+              (Evraz PLC and Polymetal PLC) but these positions were divested prior to Index deletion. Also, broader equity market
+
+
+              volatility has impacted tracking error as a result of hawkish central bank messaging and action. The tracking error of the
+
+
+              FTSE All-Share Index Fund was broadly in line with expectations.
+
+
+              Fund Particulars
+
+
+              as at 16 May 2024
+
+
+                                                                                       Retail            Retail         Institutional
+
+
+                                                                                      Income         Accumulation          Income
+
+
+              Price                                                                  390.6p xd           812.8p           395.2p xd
+
+
+              Distribution payable
+
+
+              (on 15 July 2024)                                                     6.675316p         13.640797p          7.011191p
+
+
+              per share net
+
+
+              Current net estimated yield                                             3.19%              3.11%             3.32%
+
+
+              Annual ACD charge                                                       0.14%              0.14%             0.00%
+
+
+              Fund Particulars
+
+
+              as at 16 May 2024
+
+
+                                                                                   Institutional        Income         Accumulation
+
+
+                                                                                  Accumulation             C                 C
+
+
+              Price                                                                   853.1p           395.2p xd           821.9p
+
+
+              Distribution payable
+
+
+              (on 15 July 2024)                                                     14.858653p         6.935569p         14.163402p
+
+
+              per share net
+
+
+              Current net estimated yield                                             3.23%              3.28%             3.20%
+
+
+              Annual ACD charge                                                       0.00%              0.04%             0.04%
+
+
+            36   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+            BERMUDA - 0.21% (0.23%)
+
+
+            Basic Materials - 0.00% (0.01%)
+
+
+                Petra Diamonds                                                              221,743               90                  -
+
+
+                Total Basic Materials                                                                             90                  -
+
+
+            Financials - 0.21% (0.22%)
+
+
+                Hiscox                                                                      304,915            3,540              0.15
+
+
+                Lancashire                                                                  221,286            1,372              0.06
+
+
+                Total Financials                                                                               4,912              0.21
+
+
+                Total Bermuda                                                                                  5,002              0.21
+
+
+            CAYMAN ISLANDS - 0.04% (0.04%)
+
+
+            Financials - 0.04% (0.04%)
+
+
+                Dragon Capital Vietnam Enterprise Investments 'C'                           162,119              978              0.04
+
+
+                Total Financials                                                                                 978              0.04
+
+
+                Total Cayman Islands                                                                             978              0.04
+
+
+            CHANNEL ISLANDS - 5.80% (5.47%)
+
+
+            Oil & Gas - 0.03% (0.05%)
+
+
+                Bluefield Solar Income Fund                                                 574,376              618              0.03
+
+
+                Total Oil & Gas                                                                                  618              0.03
+
+
+            Basic Materials - 2.38% (2.32%)
+
+
+                Centamin                                                                  1,051,957            1,315              0.06
+
+
+                Glencore                                                                 11,158,925           54,439              2.32
+
+
+                Total Basic Materials                                                                         55,754              2.38
+
+
+            Industrials - 1.41% (1.08%)
+
+
+                Experian Group                                                              842,882           31,617               1.35
+
+
+                International Workplace Group                                               668,909            1,371              0.06
+
+
+                Total Industrials                                                                             32,988              1.41
+
+
+            Consumer Services - 0.42% (0.49%)
+
+
+                PPHE Hotel Group                                                             15,570              226              0.01
+
+
+                Wizz Air Holdings                                                            72,467            1,607              0.07
+
+
+                WPP Group                                                                   951,100            8,039              0.34
+
+
+                Total Consumer Services                                                                        9,872              0.42
+
+
+            Financials - 1.56% (1.53%)
+
+
+                3i Infrastructure                                                           572,219            1,963              0.08
+
+
+                Aberdeen Asian Income Fund                                                  156,721              339              0.01
+
+
+               ^Alcentra European Floating Rate Income Fund                                  11,374                 -                 -
+
+
+                Apax Global Alpha                                                           420,659              656              0.03
+
+
+                BH Macro                                                                    351,425            1,235              0.05
+
+
+                BMO Commercial Property Trust                                               501,539              405              0.02
+
+
+                Chrysalis Investments                                                       587,316              543              0.02
+
+
+                CQS New City High Yield Fund                                                647,572              329              0.01
+
+
+                Digital 9 Infrastructure                                                    859,145              201              0.01
+
+
+            37   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                Fidelity Emerging Market Investment Trust                                    83,761              598              0.03
+
+
+                Foresight Solar Fund                                                        523,110              470              0.02
+
+
+                GCP Asset Backed Income Fund                                                396,159              274              0.01
+
+
+                GCP Infrastructure Investments                                              801,190              611              0.03
+
+
+                HarbourVest Global Private Equity                                            71,539            1,631              0.07
+
+
+                Henderson Far East Income                                                   145,969              344              0.01
+
+
+                Hipgnosis Songs Fund                                                      1,153,407            1,165              0.05
+
+
+                International Distributions Services                                        363,863              192              0.01
+
+
+                International Public Partnership                                          1,770,056            2,287              0.10
+
+
+                JLEN Environmental Assets Group                                             596,724              533              0.02
+
+
+                JPMorgan Global Core                                                        241,397              196              0.01
+
+
+                JTC                                                                         175,288            1,651              0.07
+
+
+                Man Group                                                                 1,220,950            3,167              0.13
+
+
+                NB Private Equity Partners                                                   41,573              673              0.03
+
+
+                NextEnergy Solar Fund                                                       512,936              399              0.02
+
+
+                Pershing Square Holdings                                                    135,178            5,486              0.23
+
+
+                Phoenix Spree REIT                                                          115,926              178              0.01
+
+
+                Picton Property Income                                                      541,275              372              0.02
+
+
+               ^Raven Property Group                                                        214,321                 -                 -
+
+
+                Real Estate Credit Investments                                              210,616              246              0.01
+
+
+                Regional REIT                                                               339,335               84                  -
+
+
+                Renewables Infrastructure Group                                           2,323,618            2,403              0.10
+
+
+                Ruffer                                                                      349,084              955              0.04
+
+
+                Schroder Oriental Income Fund                                               225,999              609              0.03
+
+
+                Schroder Real Estate Investment Trust                                       466,850              210              0.01
+
+
+                Sequoia Economic Infrastructure Income Fund                               1,570,254            1,281              0.05
+
+
+                Sirius Real Estate                                                        1,140,838            1,124              0.05
+
+
+                Starwood European Real Estate                                               248,498              229              0.01
+
+
+                Syncona                                                                     414,523              463              0.02
+
+
+                TP ICAP                                                                     691,141            1,496              0.06
+
+
+                TwentyFour Income                                                           721,417              740              0.03
+
+
+                UK Commercial Property REIT                                                 676,460              492              0.02
+
+
+                VinaCapital Vietnam Opportunity Fund                                        147,155              720              0.03
+
+
+                Total Financials                                                                              36,950              1.56
+
+
+                Total Channel Islands                                                                        136,182              5.80
+
+
+            GERMANY - 0.11% (0.09%)
+
+
+            Consumer Services - 0.11% (0.09%)
+
+
+                TUI                                                                         411,135            2,430               0.11
+
+
+                Total Consumer Services                                                                        2,430               0.11
+
+
+                Total Germany                                                                                  2,430               0.11
+
+
+            GIBRALTAR - 0.01% (0.01%)
+
+
+            Consumer Services - 0.01% (0.01%)
+
+
+                Evoke                                                                       343,310              302              0.01
+
+
+                Total Consumer Services                                                                          302              0.01
+
+
+                Total Gibraltar                                                                                  302              0.01
+
+
+            38   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+            IRELAND - 1.90% (3.01%)
+
+
+            Industrials - 0.71% (1.79%)
+
+
+                DCC                                                                          89,402            5,346              0.23
+
+
+                Grafton Group                                                               224,066            2,187              0.09
+
+
+                Smurfit Kappa Group                                                         239,441             9,118             0.39
+
+
+                Total Industrials                                                                             16,651              0.71
+
+
+            Consumer Goods - 0.06% (0.05%)
+
+
+                C&C Group                                                                   352,636              611              0.03
+
+
+                Greencore Group                                                             456,204              633              0.03
+
+
+                Total Consumer Goods                                                                           1,244              0.06
+
+
+            Consumer Services - 1.13% (1.17%)
+
+
+                Flutter Entertainment                                                       160,549           26,603               1.13
+
+
+                Total Consumer Services                                                                       26,603               1.13
+
+
+                Total Ireland                                                                                 44,498               1.90
+
+
+            ISLE OF MAN - 0.25% (0.44%)
+
+
+            Consumer Services - 0.19% (0.36%)
+
+
+                Entain                                                                      567,676            4,447              0.19
+
+
+                Total Consumer Services                                                                        4,447              0.19
+
+
+            Technology - 0.06% (0.08%)
+
+
+                Playtech                                                                    294,671            1,423              0.06
+
+
+                Total Technology                                                                               1,423              0.06
+
+
+                Total Isle of Man                                                                              5,870              0.25
+
+
+            ISRAEL - 0.07% (0.06%)
+
+
+            Financials - 0.07% (0.06%)
+
+
+                Plus500                                                                      73,006            1,621              0.07
+
+
+                Total Financials                                                                               1,621              0.07
+
+
+                Total Israel                                                                                   1,621              0.07
+
+
+            LUXEMBOURG - 0.25% (0.23%)
+
+
+            Consumer Services - 0.21% (0.19%)
+
+
+                B&M European Value Retail                                                   912,551            4,880              0.21
+
+
+                Total Consumer Services                                                                        4,880              0.21
+
+
+            Financials - 0.04% (0.04%)
+
+
+                BBGI Global Infrastructure                                                  671,687              927              0.04
+
+
+                Total Financials                                                                                 927              0.04
+
+
+                Total Luxembourg                                                                               5,807              0.25
+
+
+            NETHERLANDS - 0.02% (0.02%)
+
+
+            Industrials - 0.02% (0.02%)
+
+
+                RHI Magnesita                                                                14,951              549              0.02
+
+
+                Total Industrials                                                                                549              0.02
+
+
+                Total Netherlands                                                                                549              0.02
+
+
+            39   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+            SINGAPORE - 0.01% (0.00%)
+
+
+            Industrials - 0.01% (0.02%)
+
+
+                XP Power                                                                     20,011              226              0.01
+
+
+                Total Industrials                                                                                226              0.01
+
+
+                Total Singapore                                                                                  226              0.01
+
+
+            SPAIN - 0.26% (0.24%)
+
+
+            Consumer Services - 0.26% (0.24%)
+
+
+                International Consolidated Airlines Group                                 3,361,318             6,119             0.26
+
+
+                Total Consumer Services                                                                         6,119             0.26
+
+
+                Total Spain                                                                                     6,119             0.26
+
+
+            SWITZERLAND - 0.21% (0.21%)
+
+
+            Consumer Goods - 0.21% (0.21%)
+
+
+                Coca-Cola HBC                                                               179,939            4,999              0.21
+
+
+                Total Consumer Goods                                                                           4,999              0.21
+
+
+                Total Switzerland                                                                              4,999              0.21
+
+
+            UNITED KINGDOM - 88.46% (87.59%)
+
+
+            Oil & Gas - 10.86% (10.72%)
+
+
+                BP                                                                       15,343,591           76,250              3.25
+
+
+                Capricorn Energy                                                             94,926              172              0.01
+
+
+                Diversified Energy                                                           36,257              398              0.02
+
+
+                Energean Oil & Gas                                                          127,192            1,503              0.06
+
+
+                EnQuest                                                                   1,454,971              229              0.01
+
+
+                Harbour Energy                                                              571,949            1,732              0.07
+
+
+                Hunting                                                                     121,306              537              0.02
+
+
+                Ithaca Energy                                                                99,025               116             0.01
+
+
+                John Wood Group                                                             634,538            1,177              0.05
+
+
+                Shell                                                                     5,978,098          171,482              7.30
+
+
+                Tullow Oil                                                                1,823,810              673              0.03
+
+
+                Volution Group                                                              169,739              782              0.03
+
+
+                Total Oil & Gas                                                                              255,051             10.86
+
+
+            Basic Materials - 4.89% (4.74%)
+
+
+                Anglo American                                                            1,109,939           29,125               1.24
+
+
+                Antofagasta                                                                 315,002             7,207             0.31
+
+
+                Croda International                                                         126,875            6,195              0.26
+
+
+                Elementis                                                                   531,765              770              0.03
+
+
+                Endeavour Mining                                                            168,652            2,936              0.13
+
+
+                Ferrexpo                                                                    229,229              108                  -
+
+
+                Fresnillo                                                                   172,337            1,025              0.04
+
+
+                Hochschild Mining                                                           530,329              846              0.04
+
+
+                Johnson Matthey                                                             162,446            3,023              0.13
+
+
+                Mondi                                                                       400,276            6,392              0.27
+
+
+                Rio Tinto                                                                 1,001,850           55,322              2.35
+
+
+                Synthomer                                                                   122,661              374              0.02
+
+
+                Treatt                                                                       52,670              257              0.01
+
+
+                Victrex                                                                      81,732            1,056              0.05
+
+
+                Zotefoams                                                                    42,269              201              0.01
+
+
+                Total Basic Materials                                                                        114,837              4.89
+
+
+            40   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+            Industrials - 9.62% (8.10%)
+
+
+                Ashtead Group                                                               401,310           24,416               1.04
+
+
+                Babcock International Group                                                 453,845            2,387              0.10
+
+
+                BAE Systems                                                               2,804,057           38,219               1.63
+
+
+                Balfour Beatty                                                              486,066            1,862              0.08
+
+
+                Bodycote International                                                      223,673            1,682              0.07
+
+
+                Breedon Group                                                               290,258            1,139              0.05
+
+
+                Bunzl                                                                       319,235            9,922              0.42
+
+
+                Capita                                                                    1,596,845              224              0.01
+
+
+                Chemring Group                                                              261,630             1,016             0.04
+
+
+                Clarkson                                                                     24,311              997              0.04
+
+
+                CMC Markets                                                                  92,302              245              0.01
+
+
+                Coats Group                                                               1,475,756            1,274              0.05
+
+
+                De La Rue                                                                   153,354              146              0.01
+
+
+                Diploma                                                                     117,934            4,859              0.21
+
+
+                Discoverie Group                                                             87,574              640              0.03
+
+
+                Essentra                                                                    275,597              507              0.02
+
+
+                Forterra                                                                    176,466              305              0.01
+
+
+                Galliford Try                                                                87,373              229              0.01
+
+
+                Genuit Group                                                                221,092             1,013             0.04
+
+
+                Halma                                                                       348,369            8,204              0.35
+
+
+                Hays                                                                      1,510,300            1,562              0.07
+
+
+                Henry Boot                                                                   75,512              149              0.01
+
+
+                Hill & Smith Holdings                                                        75,284            1,470              0.06
+
+
+                Howden Joinery Group                                                        489,433            4,522              0.19
+
+
+                Ibstock                                                                     523,584              817              0.03
+
+
+                IMI                                                                         231,920            4,388              0.19
+
+
+                IntegraFin Holdings                                                         326,631              978              0.04
+
+
+                Intertek Group                                                              148,378             7,276             0.31
+
+
+                Keller                                                                       66,078              909              0.04
+
+
+                Kier Group                                                                  379,721              559              0.02
+
+
+                MacFarlane Group                                                             96,751              121              0.01
+
+
+                Marshalls                                                                   224,725              707              0.03
+
+
+                Mears Group                                                                  95,560              368              0.02
+
+
+                Melrose                                                                   1,210,203             7,438             0.32
+
+
+                Mitie Group                                                               1,273,316            1,543              0.07
+
+
+                MJ Gleeson                                                                   42,694              231              0.01
+
+
+                Morgan Advanced Materials                                                   254,454              831              0.04
+
+
+                Morgan Sindall                                                               41,432             1,017             0.04
+
+
+                Norcros                                                                      80,255              169              0.01
+
+
+                Oxford Instruments                                                           51,866            1,245              0.05
+
+
+                PageGroup                                                                   279,111            1,340              0.06
+
+
+                Paypoint                                                                     66,035              354              0.02
+
+
+                QinetiQ                                                                     485,454            1,775              0.08
+
+
+                Redde Northgate                                                             222,174              949              0.04
+
+
+                Redrow                                                                      246,666            1,778              0.08
+
+
+                Renishaw                                                                     32,788            1,315              0.06
+
+
+                Rentokil Initial                                                          2,317,969            9,923              0.42
+
+
+            41   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                Ricardo                                                                      55,059              276              0.01
+
+
+                Robert Walters                                                               61,675              226              0.01
+
+
+                Rolls-Royce                                                               7,700,106           32,841               1.40
+
+
+                Rotork                                                                      792,014            2,674               0.11
+
+
+                Royal Mail                                                                  613,968            1,930              0.08
+
+
+                RS Group                                                                    436,438            3,581              0.15
+
+
+                Senior                                                                      411,774              700              0.03
+
+
+                Serco Group                                                                 995,661            1,841              0.08
+
+
+                Severfield                                                                  226,049              158              0.01
+
+
+                Smith (DS)                                                                1,164,834            4,284              0.18
+
+
+                Smiths Group                                                                317,198            5,497              0.23
+
+
+                Spectris                                                                     91,960            3,035              0.13
+
+
+                Speedy Hire                                                                 135,565               37                  -
+
+
+                Spirax-Sarco Engineering                                                     66,686            6,432              0.27
+
+
+                SThree                                                                      117,818              511              0.02
+
+
+                Travis Perkins                                                              198,782            1,651              0.07
+
+
+                Trifast                                                                     108,579               79                  -
+
+
+                TT Electronics                                                              178,566              274              0.01
+
+
+                Tyman                                                                       184,837              706              0.03
+
+
+                Vesuvius                                                                    204,380             1,011             0.04
+
+
+                Videndum                                                                     55,458              154              0.01
+
+
+                Weir Group                                                                  236,319            4,986              0.21
+
+
+                Total Industrials                                                                            225,904              9.62
+
+
+            Consumer Goods - 12.66% (15.15%)
+
+
+                Associated British Foods                                                    309,033            8,375              0.36
+
+
+                Aston Martin Lagonda Global                                                 274,388              396              0.02
+
+
+                Bakkavor Group                                                              174,623              217              0.01
+
+
+                Barr (AG)                                                                    86,242              495              0.02
+
+
+                Barratt Developments                                                        894,683            4,570              0.19
+
+
+                Bellway                                                                     112,127            3,106              0.13
+
+
+                British American Tobacco                                                  1,851,534           45,659               1.94
+
+
+                Britvic                                                                     224,442            2,283              0.10
+
+
+                Burberry Group                                                              324,100            3,570              0.15
+
+
+                Cranswick                                                                    48,498             2,117             0.09
+
+
+                Crest Nicholson                                                             227,362              497              0.02
+
+
+                DFS Furniture                                                               192,105              219              0.01
+
+
+                Diageo                                                                    2,033,227           56,991              2.43
+
+
+                Dowlais Group                                                             1,262,135              983              0.04
+
+
+                Dr. Martens                                                                 532,038              428              0.02
+
+
+                Games Workshop                                                               31,058            3,137              0.13
+
+
+                Headlam Group                                                                72,713               115                 -
+
+
+                Hilton Food Group                                                            73,595              679              0.03
+
+
+                Imperial Brands                                                             806,296           16,013              0.68
+
+
+                Persimmon                                                                   291,600            4,287              0.18
+
+
+                Photo-Me International                                                      192,140              323              0.01
+
+
+                Pinewood Technologies Group                                                 120,796              397              0.02
+
+
+                Premier Foods                                                               627,923            1,057              0.05
+
+
+            42   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                Reckitt Benckiser                                                           658,978           30,280               1.29
+
+
+                SSP Group                                                                   726,215            1,476              0.06
+
+
+                Tate & Lyle                                                                 372,795            2,487               0.11
+
+
+                Taylor Wimpey                                                             3,163,235            4,650              0.20
+
+
+                TI Fluid Systems                                                            323,241              453              0.02
+
+
+                Ultimate Products                                                            44,114               64                  -
+
+
+                Unilever                                                                  2,282,591           98,129              4.18
+
+
+                Vistry Group                                                                317,031            4,093              0.17
+
+
+                Total Consumer Goods                                                                         297,546             12.66
+
+
+            Healthcare - 10.71% (10.89%)
+
+
+                AstraZeneca                                                               1,359,218          165,417              7.04
+
+
+                ConvaTec Group                                                            1,472,147            3,916              0.17
+
+
+                Genus                                                                        60,453            1,145              0.05
+
+
+                GSK                                                                       3,700,515            67,072             2.85
+
+
+                Hikma Pharmaceuticals                                                       146,902            2,979              0.13
+
+
+                Indivior                                                                    105,700            1,464              0.06
+
+
+              ~#NMC Health                                                                   63,925                 -                 -
+
+
+                Oxford Biomedica                                                             87,651              282              0.01
+
+
+                PureTech Health                                                             224,748              500              0.02
+
+
+                Smith & Nephew                                                              805,625            8,217              0.35
+
+
+                Spire Healthcare                                                            287,557              752              0.03
+
+
+                Total Healthcare                                                                             251,744             10.71
+
+
+            Consumer Services - 10.06% (9.14%)
+
+
+                4imprint Group                                                               26,099            1,618              0.07
+
+
+                AO World                                                                    288,008              312              0.01
+
+
+                Ascential                                                                   321,645             1,018             0.04
+
+
+                ASOS                                                                         58,764              215              0.01
+
+
+                Berkeley                                                                     95,168            5,034              0.21
+
+
+                Bloomsbury Publishing                                                        75,780              433              0.02
+
+
+                Carnival (London listed)                                                    137,113            1,468              0.06
+
+
+                Compass Group                                                             1,573,517           35,420               1.51
+
+
+                Currys                                                                      856,415              607              0.03
+
+
+                Domino's Pizza                                                              469,402            1,618              0.07
+
+
+                Dunelm Group                                                                140,472            1,423              0.06
+
+
+                easyJet                                                                     588,423             3,115             0.13
+
+
+                FirstGroup                                                                  637,838            1,091              0.05
+
+
+                Frasers Group                                                               124,083            1,022              0.04
+
+
+                Fuller Smith & Turner A                                                      40,792              260              0.01
+
+
+                Future                                                                      107,275              933              0.04
+
+
+                Greggs                                                                       92,989            2,589               0.11
+
+
+                Gym Group                                                                   196,743              228              0.01
+
+
+                Haleon                                                                    6,067,427           20,101              0.85
+
+
+                Hollywood Bowl Group                                                        144,861              480              0.02
+
+
+                Inchcape                                                                    343,110            2,755              0.12
+
+
+                Informa                                                                   1,255,658           10,588              0.45
+
+
+                InterContinental Hotels                                                     150,540           11,769              0.50
+
+
+            43   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                ITV                                                                       3,498,980            2,740              0.12
+
+
+                JD Sports Fashion                                                         2,242,328            2,844              0.12
+
+
+                Kingfisher                                                                1,692,047            4,550              0.19
+
+
+                Marks & Spencer                                                           1,807,306            4,983              0.21
+
+
+                Marston's                                                                   708,968              252              0.01
+
+
+                Mitchells & Butlers                                                         278,208              712              0.03
+
+
+                Moneysupermarket.com                                                        497,196            1,145              0.05
+
+
+                Motorpoint Group                                                            103,059              145              0.01
+
+
+                National Express                                                            484,694              320              0.01
+
+
+                Next                                                                        111,612           10,418              0.44
+
+
+                Ocado Group                                                                 558,143            2,026              0.09
+
+
+                On The Beach Group                                                          151,195              206              0.01
+
+
+                Pearson                                                                     625,503            6,157              0.26
+
+
+                Pets at Home Group                                                          444,045            1,309              0.05
+
+
+                Rank Group                                                                  188,226              168              0.01
+
+
+                Reach                                                                       305,435              246              0.01
+
+
+                RELX                                                                      1,743,926           60,375              2.57
+
+
+                Sainsbury (J)                                                             1,594,260            4,419              0.19
+
+
+                Tesco                                                                     6,448,619           20,036              0.85
+
+
+                Topps Tiles                                                                 329,664              144              0.01
+
+
+                Watches of Switzerland Group                                                184,042              621              0.03
+
+
+                Wetherspoon (JD)                                                             85,764              669              0.03
+
+
+                Whitbread                                                                   179,543            5,587              0.24
+
+
+                WHSmith                                                                     122,680            1,390              0.06
+
+
+                Wickes Group                                                                260,283              381              0.02
+
+
+                XPS Pensions Group                                                          160,940              420              0.02
+
+
+                Total Consumer Services                                                                      236,360             10.06
+
+
+            Telecommunications - 1.06% (1.45%)
+
+
+                Airtel Africa                                                             1,025,605            1,236              0.05
+
+
+                BT Group                                                                  5,729,230            6,483              0.28
+
+
+                Helios Towers                                                               708,433              782              0.03
+
+
+                Telecom Plus                                                                 63,931            1,146              0.05
+
+
+                Vodafone Group                                                           20,100,896           15,293              0.65
+
+
+                Total Telecommunications                                                                      24,940              1.06
+
+
+            Utilities - 3.51% (3.67%)
+
+
+                Centrica                                                                  4,898,395             7,061             0.30
+
+
+                Drax Group                                                                  422,704            2,327              0.10
+
+
+                Luceco                                                                       96,678              177              0.01
+
+
+                National Grid                                                             3,418,751           38,837               1.65
+
+
+                Pennon                                                                      255,558            1,840              0.08
+
+
+                Renewi                                                                       72,889              441              0.02
+
+
+                Severn Trent                                                                239,303            6,344              0.27
+
+
+                SSE                                                                       1,002,997           18,671              0.79
+
+
+                United Utilities                                                            618,531            6,875              0.29
+
+
+                Total Utilities                                                                               82,573              3.51
+
+
+            44   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+            Financials - 23.62% (22.48%)
+
+
+                3i Group                                                                    888,874           26,355               1.12
+
+
+                Aberdeen Diversified Income and Growth Trust                                248,388              202              0.01
+
+
+                Aberdeen New India Investment Trust                                          58,203              433              0.02
+
+
+                Aberdeen Standard Asia Focus                                                154,187              436              0.02
+
+
+                Aberforth Smaller Companies                                                  75,877            1,143              0.05
+
+
+                Admiral Group                                                               281,673             7,532             0.32
+
+
+                AEW UK REIT                                                                  91,514               80                  -
+
+
+                AJ Bell                                                                     292,134            1,043              0.04
+
+
+                Alliance Trust                                                              265,186            3,336              0.14
+
+
+                Allianz Technology Trust                                                    347,980            1,268              0.05
+
+
+                Artemis Alpha Trust                                                         121,698              441              0.02
+
+
+                Ashmore Group                                                               446,452              894              0.04
+
+
+                Asia Dragon Trust                                                           153,857              626              0.03
+
+
+                Assura REIT                                                               2,851,761            1,239              0.05
+
+
+                AVI Global Trust                                                            430,691            1,068              0.05
+
+
+                AVI Japan Opportunity                                                        33,218               42                  -
+
+
+                Aviva                                                                     2,511,257           12,368              0.53
+
+
+                Baillie Gifford China Growth Trust                                           41,993               94                  -
+
+
+                Baillie Gifford European Growth Trust                                       389,250              389              0.02
+
+
+                Baillie Gifford Japan Investment Trust                                       87,525              643              0.03
+
+
+                Baillie Gifford Shin Nippon                                                 288,382              328              0.01
+
+
+                Baillie Gifford UK Growth Fund                                              143,311              248              0.01
+
+
+                Baillie Gifford US Growth Trust                                             314,989              622              0.03
+
+
+                Bank of Georgia                                                              31,568            1,294              0.06
+
+
+                Bankers Investment Trust                                                  1,145,481            1,333              0.06
+
+
+                Barclays                                                                 13,819,469           29,449               1.25
+
+
+                Brunner                                                                      27,164              365              0.02
+
+
+                BB Healthcare Trust                                                         407,807              586              0.03
+
+
+                Beazley                                                                     592,249            4,007              0.17
+
+
+                Big Yellow Group REIT                                                       167,200            1,976              0.08
+
+
+                Biotech Growth Trust                                                         31,743              317              0.01
+
+
+                BlackRock Greater Europe Investment Trust                                   101,038              645              0.03
+
+
+                BlackRock Latin American Investment Trust                                    30,847              122              0.01
+
+
+                BlackRock Smaller Companies                                                  48,073              711              0.03
+
+
+                BlackRock Sustainable American Income Trust                                  87,726              179              0.01
+
+
+                BlackRock Throgmorton Trust                                                  99,660              616              0.03
+
+
+                BlackRock World Mining Investment Trust                                     183,440            1,132              0.05
+
+
+                BMO Global Smaller Companies                                                514,366              856              0.04
+
+
+                Bridgepoint                                                                 232,641              544              0.02
+
+
+                British Land REIT                                                           827,705            3,387              0.14
+
+
+                Brown Advisory US Smaller Companies                                          16,169              216              0.01
+
+
+                C C Japan Income And Growth Trust                                           147,847              285              0.01
+
+
+                Caledonia Investments                                                        31,409            1,084              0.05
+
+
+                Capital & Regional PLC                                                       24,070               13                  -
+
+
+                Capital Gearing Trust                                                        20,883              998              0.04
+
+
+                Chesnara                                                                    163,418              409              0.02
+
+
+                City Natural Resources High Yield Trust                                      26,454               51                  -
+
+
+            45   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                City of London Investment Trust                                             472,549             2,018             0.09
+
+
+                Close Brothers                                                              140,976              684              0.03
+
+
+                CLS Holdings                                                                157,583              150              0.01
+
+
+                CT Private Equity Trust                                                      62,019              287              0.01
+
+
+                CT UK Capital and Income Investment Trust                                   101,821              343              0.01
+
+
+                Custodian REIT                                                              438,304              333              0.01
+
+
+                Derwent London REIT                                                         100,559            2,297              0.10
+
+
+                Direct Line Insurance                                                     1,202,958            2,365              0.10
+
+
+                Dunedin Income Growth Investment Trust                                      145,853              422              0.02
+
+
+                Ecofin Global Utilities & Infrastructure Trust                              128,215              237              0.01
+
+
+                Edinburgh Investment Trust                                                  190,579            1,405              0.06
+
+
+                Edinburgh Worldwide Investment Trust                                        385,166              562              0.02
+
+
+                Empiric Student Property                                                    565,944              534              0.02
+
+
+                European Assets Trust                                                       365,966              329              0.01
+
+
+                European Opportunities Trust                                                 63,623              578              0.02
+
+
+                Fidelity Asian Values Investment Trust                                       61,405              330              0.01
+
+
+                Fidelity China Special Situations Trust                                     388,337              928              0.04
+
+
+                Fidelity European Values Investment Trust                                   382,818            1,570              0.07
+
+
+                Fidelity Japanese Values Investment Trust                                   131,758              229              0.01
+
+
+                Fidelity Special Values Investment Trust                                    220,248              678              0.03
+
+
+                Finsbury Growth & Income Investment Trust                                   184,880            1,590              0.07
+
+
+                Foreign & Colonial Investment Trust                                         481,645            5,048              0.22
+
+
+                Grainger Trust                                                              664,482            1,804              0.08
+
+
+                Great Portland Real Estate Investment Trust                                 199,965              860              0.04
+
+
+                Greencoat UK Wind                                                         2,153,955            3,100              0.13
+
+
+                GSF                                                                         376,473              242              0.01
+
+
+                Hammerson                                                                 3,660,202            1,042              0.04
+
+
+                Hargreaves Lansdown                                                         350,985            3,164              0.14
+
+
+                Harworth Group                                                              236,449              325              0.01
+
+
+                Helical                                                                     106,859              251              0.01
+
+
+                Henderson European Focus Trust                                              242,468              466              0.02
+
+
+                Henderson Eurotrust                                                         194,581              314              0.01
+
+
+                Henderson High Income Trust                                                 161,720              269              0.01
+
+
+                Henderson International Income Trust                                        177,926              301              0.01
+
+
+                Henderson Smaller Companies Investment Trust                                114,920              975              0.04
+
+
+                Herald Investment Trust                                                      51,820            1,135              0.05
+
+
+                HgCapital Trust                                                             401,523            1,969              0.08
+
+
+               +HICL Infrastructure                                                       1,887,428            2,356              0.10
+
+
+               *Home REIT                                                                 1,604,207              446              0.02
+
+
+               +HSBC Holdings                                                            17,581,477          123,352              5.25
+
+
+                ICG Enterprise Trust                                                         64,293              760              0.03
+
+
+                IG Group                                                                    319,204            2,515               0.11
+
+
+                Impact Healthcare REIT                                                      321,605              285              0.01
+
+
+                Impax Environmental Markets                                                 346,092            1,398              0.06
+
+
+                Intermediate Capital                                                        255,753            5,724              0.24
+
+
+              ^#Intu Properties                                                             648,327                 -                 -
+
+
+                Invesco Asia Trust                                                           53,196              174              0.01
+
+
+                Invesco Perpetual UK Smaller Companies Investment Trust                       57,017             237              0.01
+
+
+            46   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                Investec                                                                    632,689            3,530              0.15
+
+
+                IP Group                                                                    882,509              464              0.02
+
+
+                JPMorgan China Growth & Income                                               93,569              235              0.01
+
+
+                JPMorgan American Investment Trust                                          174,005            1,716              0.07
+
+
+                JPMorgan Asia Growth & Income                                                81,454              299              0.01
+
+
+                JPMorgan Claverhouse Investment Trust                                        84,279              625              0.03
+
+
+                JPMorgan Emerging Markets Investment Trust                                1,106,362            1,188              0.05
+
+
+                JPMorgan European Discovery Trust                                           150,278              724              0.03
+
+
+                JPMorgan European Growth & Income                                           377,986              414              0.02
+
+
+                JPMorgan Global Emerging Markets Fund                                       269,942              371              0.02
+
+
+                JPMorgan Global Growth & Income trust                                       400,171            2,257              0.10
+
+
+                JPMorgan Indian Investment Trust                                             68,279              652              0.03
+
+
+                JPMorgan Japanese Investment Trust                                          143,772              742              0.03
+
+
+                JPMorgan Smaller Companies Investment Trust                                 120,123              398              0.02
+
+
+                JPMorgan US Smaller Companies                                                34,045              138              0.01
+
+
+                Jupiter Fund Management                                                     390,084              336              0.01
+
+
+                Just Group                                                                  973,108              983              0.04
+
+
+                Keystone Investment Trust                                                    63,719              141              0.01
+
+
+                Land Securities                                                             665,479            4,555              0.19
+
+
+                Law Debenture                                                               116,342            1,038              0.04
+
+
+                Legal & General                                                           5,455,390           13,731              0.58
+
+
+                Life Science REIT                                                           321,903              122              0.01
+
+
+                Lindsell Train                                                                  143               114             0.01
+
+
+                Liontrust Asset Management                                                   56,122              408              0.02
+
+
+                Lloyds Banking Group                                                    58,341,756            31,796               1.35
+
+
+                London Stock Exchange Group                                                 429,594           39,170               1.67
+
+
+                Londonmetric Property                                                     1,745,469            3,655              0.16
+
+
+                Lowland Investment Company                                                  243,559              313              0.01
+
+
+                LSL Property Services                                                        99,772              302              0.01
+
+
+                M&G                                                                       1,946,766            4,038              0.17
+
+
+                Martin Currie Global Portfolio                                               79,422              302              0.01
+
+
+                Merchants Trust                                                             131,952              777              0.03
+
+
+                Metro Bank Holdings                                                         146,626               51                  -
+
+
+                Mid Wynd International Investment Trust                                      49,153              386              0.02
+
+
+                Molten Ventures                                                             135,887              431              0.02
+
+
+                Monks Investment Trust                                                      190,196            2,252              0.10
+
+
+                Montanaro UK Smaller Companies Trust                                        142,413              154              0.01
+
+
+                Murray Income Trust                                                         104,724              937              0.04
+
+
+                Murray International                                                        568,354            1,455              0.06
+
+
+                NatWest Group                                                             4,954,102           16,165              0.69
+
+
+                Network International                                                       427,192            1,675              0.07
+
+
+                NewRiver REIT                                                               334,686              249              0.01
+
+
+                Ninety One                                                                  323,720              572              0.02
+
+
+                Octopus Renewables Infrastructure Trust                                     563,324              423              0.02
+
+
+                OSB Group                                                                   451,728            2,037              0.09
+
+
+                Pacific Assets Trust                                                        119,226              447              0.02
+
+
+                Pacific Horizon Investment Trust                                             82,917              534              0.02
+
+
+                Pantheon Infrastructure                                                     493,291              417              0.02
+
+
+            47   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                Pantheon International                                                      425,627             1,411             0.06
+
+
+                Paragon Banking Group                                                       246,958            1,794              0.08
+
+
+                Personal Assets Trust                                                       333,600            1,633              0.07
+
+
+                Petershill Partners                                                         276,854              554              0.02
+
+
+                Phoenix Group Holdings                                                      668,517            3,440              0.15
+
+
+                Polar Capital Global Financials Trust                                       289,806              489              0.02
+
+
+                Polar Capital Global Healthcare Growth & Income Trust                       111,483              412              0.02
+
+
+                Polar Capital Technology Trust                                              113,223            3,448              0.15
+
+
+                Primary Health Properties                                                 1,240,766            1,204              0.05
+
+
+                Prudential                                                                2,531,390           20,347              0.87
+
+
+                Quilter                                                                   1,242,564            1,389              0.06
+
+
+                Rathbone Group                                                               59,081            1,049              0.04
+
+
+                RIT Capital Partners                                                        111,390            2,139              0.09
+
+
+                Riverstone Energy                                                            27,759              254              0.01
+
+
+                Sabre Insurance                                                             187,511              302              0.01
+
+
+                Safestore Holdings REIT                                                     198,093            1,681              0.07
+
+
+                Saga                                                                         94,938               119             0.01
+
+
+                Savills                                                                     123,244            1,440              0.06
+
+
+                Schroder Asia Pacific Investment Trust                                      158,359              836              0.04
+
+
+                Schroder Asian Total Return Investment Company                               96,355              436              0.02
+
+
+                Schroder Income Growth Investment Trust                                      63,776              184              0.01
+
+
+                Schroder Japan Growth Investment Trust                                      113,403              290              0.01
+
+
+                Schroder UK Mid Cap Fund                                                     37,628              227              0.01
+
+
+                Schroders                                                                   781,961            2,931              0.12
+
+
+                Schroders Capital Global Innovation Trust                                   682,331               81                  -
+
+
+                Scottish American Investment Trust                                          170,394              886              0.04
+
+
+                Scottish Mortgage Investment Trust                                        1,294,523           11,604              0.49
+
+
+                Scottish Oriental Smaller Companies Trust                                    22,207              305              0.01
+
+
+                SDCL Energy Efficiency Income Trust                                       1,019,246              682              0.03
+
+
+                Secure Trust Bank                                                            22,657              159              0.01
+
+
+                Securities Trust of Scotland                                                151,685              338              0.01
+
+
+                Segro REIT                                                                1,203,204           11,262              0.48
+
+
+                Shaftesbury Capital                                                       1,513,593            2,134              0.09
+
+
+                Smithson Investment Trust                                                   139,436            1,988              0.08
+
+
+                St James's Place Capital                                                    502,339            2,437              0.10
+
+
+                Standard Chartered                                                        2,011,887           15,576              0.66
+
+
+                Standard Life Aberdeen                                                    1,654,475            2,596               0.11
+
+
+                Standard Life Aberdeen European REIT                                        336,565              205              0.01
+
+
+                Standard Life UK Smaller Companies                                           90,355              450              0.02
+
+
+                Supermarket Income REIT                                                   1,178,363              897              0.04
+
+
+                Target Healthcare REIT                                                      627,383              529              0.02
+
+
+                TBC Bank Group                                                               48,467            1,221              0.05
+
+
+                Temple Bar Investment Trust                                                 409,868            1,121              0.05
+
+
+                Templeton Emerging Markets Investment Trust                               1,010,763            1,670              0.07
+
+
+                The Mercantile Investment Trust                                             714,742            1,701              0.07
+
+
+                The North American Income Trust                                             139,905              407              0.02
+
+
+                The PRS                                                                     526,637              430              0.02
+
+
+                TR European Growth Trust                                                    383,616              713              0.03
+
+
+            48   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                TR Property Investment Trust                                                314,348            1,052              0.04
+
+
+                Triple Point Social Housing REIT                                            335,758              204              0.01
+
+
+                Tritax Big Box REIT                                                       1,732,032            2,851              0.12
+
+
+                Tritax EuroBox                                                              693,818              429              0.02
+
+
+                Unite Group                                                                 309,917            3,009              0.13
+
+
+                Urban Logistics REIT                                                        699,784              851              0.04
+
+
+                Utilico Emerging Markets Trust                                              157,854              371              0.02
+
+
+                Vanquis Banking Group                                                       244,109              143              0.01
+
+
+                VH Global Sustainable                                                       382,440              294              0.01
+
+
+                Virgin Money                                                                998,438            2,141              0.09
+
+
+                Warehouse REIT                                                              391,423              334              0.01
+
+
+                Witan Investment Trust                                                      591,736            1,592              0.07
+
+
+                Workspace Group REIT                                                        140,903              786              0.03
+
+
+                Worldwide Healthcare Trust                                                  530,930            1,864              0.08
+
+
+                Total Financials                                                                             554,827             23.62
+
+
+            Technology - 1.47% (1.25%)
+
+
+                Auction Technology                                                           84,388              415              0.02
+
+
+                Auto Trader Group                                                           814,521            6,156              0.26
+
+
+                Baltic Classifieds                                                          283,660              668              0.03
+
+
+                Bytes Technology Group                                                      201,016            1,064              0.05
+
+
+                Computacenter                                                                66,167            1,800              0.08
+
+
+                Darktrace                                                                   365,138            2,183              0.09
+
+
+                FDM Group                                                                    81,927              340              0.01
+
+
+                Kainos Group                                                                 93,231              981              0.04
+
+
+                Moonpig                                                                     250,530              388              0.02
+
+
+                NCC Group                                                                   260,105              355              0.01
+
+
+                Rightmove                                                                   729,559            3,985              0.17
+
+
+                Sage Group                                                                  942,295           11,284              0.48
+
+
+                Softcat                                                                     115,797            1,905              0.08
+
+
+                Spirent Communications                                                      519,265              987              0.04
+
+
+                Trainline                                                                   425,960            1,387              0.06
+
+
+                Trustpilot                                                                  308,736              665              0.03
+
+
+                Total Technology                                                                              34,563              1.47
+
+
+                Total United Kingdom                                                                       2,078,345             88.46
+
+
+            Forwards Foreign Exchange Contracts - 0.00% (0.00%)
+
+
+               #GBP Forward Currency Contract 5/7/2024                              GBP 6,641,109
+
+
+                                                                                                                  81                  -
+
+
+               #USD Forward Currency Contract 5/7/2024                              (USD 8,300,000)
+
+
+                Total Forward Foreign Exchange Contracts                                                          81                  -
+
+
+            Futures - 0.03% (0.00%)
+
+
+                ICF FTSE 100 Index Future June 2024                                             622              610              0.03
+
+
+                ICF FTSE 250 Index Future June 2024                                             154               95                  -
+
+
+                Total Futures                                                                                    705              0.03
+
+
+            49   FTSE ALL-SHARE INDEX FUND
+
+
+            Portfolio Statement
+
+
+            as at 15 May 2024
+
+
+            Security                                                                        Holding               Bid              Total
+
+
+                                                                                                                value               net
+
+
+                                                                                                                £’000            assets
+
+
+                                                                                                                                      %
+
+
+                Portfolio of investments                                                                   2,293,714             97.63
+
+
+                Net other assets                                                                              55,712              2.37
+
+
+                Net assets                                                                                 2,349,426            100.00
+
+
+                +Investment managed by the ACD/HSBC Group
+
+
+                #Unlisted
+
+
+                ^Priced at zero - minimal prospect of recovering value
+
+
+                ~Value less than £1,000
+
+
+                *Suspended
+
+
+                Figures in brackets denote the comparative percentage holdings as at 15 May 2023.
+
+
+                Unless otherwise stated, all investments are listed equities.
+
+
+                The counterparty for futures is HSBC Bank.
+
+
+                Counterparty for forward foreign exchange contract is Merrill Lynch.
+
+
+            50   FTSE ALL-SHARE INDEX FUND
+
+
+            Comparative Tables
+
+
+            for the year ended 15 May 2024
+
+
+              Retail Income
+
+
+                                                                                          15.5.24           15.5.23            15.5.22
+
+
+              Change in net assets per share
+
+
+              Opening net asset value per share                                         359.00p            346.60p           339.00p
+
+
+              Return before operating charges*                                           44.43p              24.99p           19.51p
+
+
+              Operating charges**                                                         (0.59p)            (0.57p)           (0.56p)
+
+
+              Return after operating charges*                                            43.84p              24.42p           18.95p
+
+
+              Distributions on income shares                                             (12.44p)           (12.02p)          (11.35p)
+
+
+              Closing net asset value per share                                         390.40p             359.00p          346.60p
+
+
+              *after direct transaction costs of:***                                       0.18p              0.25p            0.45p
+
+
+              Performance
+
+
+              Return after charges                                                       12.21%              7.05%             5.59%
+
+
+              Other information
+
+
+              Closing net asset value                                                  £234,049           £196,625          £125,044
+
+
+              Closing number of shares                                                    59,954             54,778            36,079
+
+
+              Operating charges - OCF                                                0.16%****               0.22%            0.23%
+
+
+              Direct transaction costs                                                    0.05%              0.07%             0.13%
+
+
+              Prices
+
+
+              Highest share price                                                       399.00p             372.40p          366.90p
+
+
+              Lowest share price                                                        336.80p             321.20p          325.70p
+
+
+              Retail Accumulation
+
+
+                                                                                          15.5.24           15.5.23            15.5.22
+
+
+              Change in net assets per share
+
+
+              Opening net asset value per share                                          722.50p           674.20p           638.60p
+
+
+              Return before operating charges*                                            91.09p            49.44p             36.68p
+
+
+              Operating charges**                                                          (1.19p)           (1.14p)            (1.08p)
+
+
+              Return after operating charges*                                             89.90p             48.30p            35.60p
+
+
+              Distributions on accumulation shares                                       (25.25p)           (23.59p)          (21.58p)
+
+
+              Retained distributions on accumulation shares                               25.25p             23.59p            21.58p
+
+
+              Closing net asset value per share                                          812.40p           722.50p            674.20p
+
+
+              *after direct transaction costs of:***                                       0.38p              0.49p             0.87p
+
+
+              Performance
+
+
+              Return after charges                                                       12.44%              7.16%             5.57%
+
+
+              Other information
+
+
+              Closing net asset value                                               £152,370,866      £121,254,088        £19,322,736
+
+
+              Closing number of shares                                                18,755,904        16,783,264          2,865,983
+
+
+              Operating charges - OCF                                                 0.16%****              0.22%             0.23%
+
+
+              Direct transaction costs                                                    0.05%              0.07%             0.13%
+
+
+              Prices
+
+
+              Highest share price                                                        816.30p           736.60p            702.30p
+
+
+              Lowest share price                                                         677.80p           624.80p            623.40p
+
+
+              **The operating charges include all costs borne by the Fund, except for direct transaction costs.
+
+
+              ***The direct transaction costs are made up of fees and commissions paid to agents, advisers, brokers and dealers, levies
+
+
+              by regulatory agencies and securities exchanges as well as transfer taxes and duties.
+
+
+              ****From May 2024, the operating charges % excludes the cost of investing in underlying closed ended investments. For
+
+
+              this accounting period 15.5.24, this cost was 0.05%.
+
+
+            51   FTSE ALL-SHARE INDEX FUND
+
+
+            Comparative Tables
+
+
+            for the year ended 15 May 2024
+
+
+              Institutional Income
+
+
+                                                                                          15.5.24           15.5.23            15.5.22
+
+
+              Change in net assets per share
+
+
+              Opening net asset value per share                                         363.20p             350.70p          343.00p
+
+
+              Return before operating charges*                                           44.98p              25.24p           19.78p
+
+
+              Operating charges**                                                         (0.09p)            (0.08p)           (0.08p)
+
+
+              Return after operating charges*                                            44.89p              25.16p           19.70p
+
+
+              Distributions on income shares                                             (13.09p)           (12.66p)          (12.00p)
+
+
+              Closing net asset value per share                                         395.00p             363.20p          350.70p
+
+
+              *after direct transaction costs of:***                                       0.19p              0.25p            0.46p
+
+
+              Performance
+
+
+              Return after charges                                                       12.36%              7.17%             5.74%
+
+
+              Other information
+
+
+              Closing net asset value                                              £113,293,961       £125,006,757     £249,676,326
+
+
+              Closing number of shares                                               28,681,334          34,421,343       71,200,242
+
+
+              Operating charges - OCF                                                0.02%****               0.08%            0.09%
+
+
+              Direct transaction costs                                                    0.05%              0.07%             0.13%
+
+
+              Prices
+
+
+              Highest share price                                                       403.90p             376.90p          371.40p
+
+
+              Lowest share price                                                        340.80p             325.10p          329.70p
+
+
+              Institutional Accumulation
+
+
+                                                                                          15.5.24           15.5.23            15.5.22
+
+
+              Change in net assets per share
+
+
+              Opening net asset value per share                                          757.30p           705.70p            667.40p
+
+
+              Return before operating charges*                                            95.58p             51.76p            38.45p
+
+
+              Operating charges**                                                          (0.18p)           (0.16p)            (0.15p)
+
+
+              Return after operating charges*                                             95.40p             51.60p            38.30p
+
+
+              Distributions on accumulation shares                                        (27.55p)          (25.71p)          (23.55p)
+
+
+              Retained distributions on accumulation shares                               27.55p             25.71p            23.55p
+
+
+              Closing net asset value per share                                          852.70p            757.30p           705.70p
+
+
+              *after direct transaction costs of: ***                                      0.39p              0.52p             0.91p
+
+
+              Performance
+
+
+              Return after charges                                                       12.60%              7.31%             5.74%
+
+
+              Other information
+
+
+              Closing net asset value                                                £49,173,962       £48,078,636        £25,844,032
+
+
+              Closing number of shares                                                 5,766,794          6,348,841         3,662,212
+
+
+              Operating charges - OCF                                                0.02%****               0.08%             0.09%
+
+
+              Direct transaction costs                                                    0.05%              0.07%             0.13%
+
+
+              Prices
+
+
+              Highest share price                                                        856.80p            771.80p           735.00p
+
+
+              Lowest share price                                                         710.60p           654.40p            652.30p
+
+
+              **The operating charges include all costs borne by the Fund, except for direct transaction costs.
+
+
+              ***The direct transaction costs are made up of fees and commissions paid to agents, advisers, brokers and dealers, levies
+
+
+              by regulatory agencies and securities exchanges as well as transfer taxes and duties.
+
+
+              ****From May 2024, the operating charges % excludes the cost of investing in underlying closed ended investments. For
+
+
+              this accounting period 15.5.24, this cost was 0.05%.
+
+
+            52   FTSE ALL-SHARE INDEX FUND
+
+
+            Comparative Tables
+
+
+            for the year ended 15 May 2024
+
+
+              Income C
+
+
+                                                                                          15.5.24           15.5.23            15.5.22
+
+
+              Change in net assets per share
+
+
+              Opening net asset value per share                                         363.20p             350.70p          343.00p
+
+
+              Return before operating charges*                                           44.98p              25.24p           19.78p
+
+
+              Operating charges**                                                         (0.23p)            (0.22p)           (0.22p)
+
+
+              Return after operating charges*                                            44.75p              25.02p           19.56p
+
+
+              Distributions on income shares                                             (12.95p)           (12.52p)          (11.86p)
+
+
+              Closing net asset value per share                                         395.00p             363.20p          350.70p
+
+
+              *after direct transaction costs of:***                                       0.19p              0.25p            0.46p
+
+
+              Performance
+
+
+              Return after charges                                                       12.32%              7.13%             5.70%
+
+
+              Other information
+
+
+              Closing net asset value                                              £458,520,133       £456,375,428     £443,252,081
+
+
+              Closing number of shares                                              116,082,319         125,662,507      126,407,639
+
+
+              Operating charges - OCF                                                0.06%****               0.12%             0.13%
+
+
+              Direct transaction costs                                                    0.05%              0.07%             0.13%
+
+
+              Prices
+
+
+              Highest share price                                                       403.90p             376.90p          371.40p
+
+
+              Lowest share price                                                        340.80p              25.10p          329.60p
+
+
+              Accumulation C
+
+
+                                                                                          15.5.24           15.5.23            15.5.22
+
+
+              Change in net assets per share
+
+
+              Opening net asset value per share                                          729.90p           680.50p           643.90p
+
+
+              Return before operating charges*                                            92.07p            49.84p             37.02p
+
+
+              Operating charges**                                                          (0.47p)           (0.44p)           (0.42p)
+
+
+              Return after operating charges*                                             91.60p             49.40p            36.60p
+
+
+              Distributions on accumulation shares                                       (26.25p)           (24.51p)          (22.44p)
+
+
+              Retained distributions on accumulation shares                               26.25p             24.51p            22.44p
+
+
+              Closing net asset value per share                                          821.50p           729.90p            680.50p
+
+
+              *after direct transaction costs of: ***                                      0.38p              0.49p             0.88p
+
+
+              Performance
+
+
+              Return after charges                                                       12.55%              7.26%             5.68%
+
+
+              Other information
+
+
+              Closing net asset value                                             £1,575,833,295    £1,482,900,912    £1,353,760,491
+
+
+              Closing number of shares                                               191,819,512        203,174,025      198,949,369
+
+
+              Operating charges - OCF                                                0.06%****               0.12%             0.13%
+
+
+              Direct transaction costs                                                    0.05%              0.07%             0.13%
+
+
+              Prices
+
+
+              Highest share price                                                        825.40p           744.00p            708.70p
+
+
+              Lowest share price                                                         684.80p           630.90p            629.00p
+
+
+              **The operating charges include all costs borne by the Fund, except for direct transaction costs.
+
+
+              ***The direct transaction costs are made up of fees and commissions paid to agents, advisers, brokers and dealers, levies
+
+
+              by regulatory agencies and securities exchanges as well as transfer taxes and duties.
+
+
+              ****From May 2024, the operating charges % excludes the cost of investing in underlying closed ended investments. For
+
+
+              this accounting period 15.5.24, this cost was 0.05%.
+
+
+            53   FTSE ALL-SHARE INDEX FUND
+
+
+            Statement of Total Return
+
+
+            for the year ended 15 May 2024
+
+
+                                                                                             15.5.24                     15.5.23
+
+
+                                                                     Notes            £’000         £’000         £’000          £’000
+
+
+              Income
+
+
+               Net capital gains                                       2                          180,934                      79,562
+
+
+               Revenue                                                 3             78,382                       77,558
+
+
+              Expenses                                                 4             (1,424)                      (1,304)
+
+
+              Interest payable and similar charges                                        (6)                         (8)
+
+
+              Net revenue before taxation                                            76,952                      76,246
+
+
+              Taxation                                                 5                969                          (95)
+
+
+              Net revenue after taxation                                                           77,921                       76,151
+
+
+              Total return before distributions                                                   258,855                     155,713
+
+
+              Distributions                                            6                          (76,867)                     (76,151)
+
+
+              Change in net assets attributable
+
+
+              to shareholders from investment activities                                          181,988                      79,562
+
+
+            Statement of Change in Net Assets Attributable to Shareholders
+
+
+            for the year ended 15 May 2024
+
+
+                                                                                             15.5.24                     15.5.23
+
+
+                                                                                      £’000         £’000         £’000          £’000
+
+
+              Opening net assets attributable to shareholders                                   2,233,812                    2,091,981
+
+
+              Amounts receivable on creation of shares                              289,392                     515,098
+
+
+              Amounts payable on cancellation of shares                            (414,157)                    (509,718)
+
+
+                                                                                                 (124,765)                      5,380
+
+
+              Dilution adjustment                                                                    1,463                       1,807
+
+
+              Change in net assets attributable to shareholders from
+
+
+              investment activities (see Statement of Total Return above)                         181,988                       79,562
+
+
+              Retained distribution on accumulation shares                                         56,928                       55,082
+
+
+              Closing net assets attributable to shareholders                                   2,349,426                    2,233,812
+
+
+            Balance Sheet
+
+
+            as at 15 May 2024
+
+
+                                                                                             15.5.24                     15.5.23
+
+
+                                                                     Notes            £’000         £’000         £’000          £’000
+
+
+              Assets
+
+
+              Investments                                                                       2,293,714                    2,181,202
+
+
+              Current assets
+
+
+               Debtors                                                 8             24,420                       18,176
+
+
+               Cash and bank balances                                                42,372                       48,852
+
+
+              Total current assets                                                                 66,792                       67,028
+
+
+              Total assets                                                                      2,360,506                    2,248,230
+
+
+              Liabilities
+
+
+              Investment liabilities                                                                     -                         (34)
+
+
+              Creditors
+
+
+                 Distribution payable on income shares                              (10,066)                     (10,507)
+
+
+                 Other creditors                                       9              (1,014)                     (3,877)
+
+
+              Total creditors                                                                     (11,080)                     (14,384)
+
+
+              Total liabilities                                                                   (11,080)                     (14,418)
+
+
+              Net assets attributable to shareholders                                           2,349,426                    2,233,812
+
+
+            54   FTSE ALL-SHARE INDEX FUND
+
+
+            Distribution Tables (pence per share)
+
+
+            for the year ended 15 May 2024
+
+
+              Group 1: Shares purchased prior to 16 November 2023
+
+
+              Group 2: Shares purchased from 16 November 2023 to 15 May 2024
+
+
+                                                                           Net      Equalisation       Distribution       Distribution
+
+
+                                                                       income                              payable                paid
+
+
+                                                                                                             15.7.24           15.7.23
+
+
+              Retail Income
+
+
+              Group 1                                                 6.675316                   -         6.675316          6.288930
+
+
+              Group 2                                                 1.196731          5.478585           6.675316          6.288930
+
+
+              Retail Accumulation
+
+
+              Group 1                                                13.640797                   -       13.640797          12.433502
+
+
+              Group 2                                                 6.963252          6.677545         13.640797          12.433502
+
+
+              Institutional Income
+
+
+              Group 1                                                 7.011191                   -         7.011191          6.618128
+
+
+              Group 2                                                 3.660346          3.350845           7.011191          6.618128
+
+
+              Institutional Accumulation
+
+
+              Group 1                                                14.858653                   -       14.858653          13.539568
+
+
+              Group 2                                                 8.214283          6.644370         14.858653          13.539568
+
+
+              Income C
+
+
+              Group 1                                                 6.935569                   -        6.935569           6.545335
+
+
+              Group 2                                                 3.580016          3.355553          6.935569           6.545335
+
+
+              Accumulation C
+
+
+              Group 1                                                14.163402                   -       14.163402          12.907735
+
+
+              Group 2                                                 5.200353          8.963049         14.163402          12.907735
+
+
+            55   FTSE ALL-SHARE INDEX FUND
+
+
+            Distribution Tables (pence per share)
+
+
+            for the year ended 15 May 2024
+
+
+              Group 1: Shares purchased prior to 16 May 2023
+
+
+              Group 2: Shares purchased from 16 May 2023 to 15 November 2023
+
+
+                                                                           Net      Equalisation       Distribution       Distribution
+
+
+                                                                       income                                  paid               paid
+
+
+                                                                                                             15.1.24           15.1.23
+
+
+              Retail Income
+
+
+              Group 1                                                 5.760000                   -        5.760000           5.730000
+
+
+              Group 2                                                 5.300000          0.460000          5.760000           5.730000
+
+
+              Retail Accumulation
+
+
+              Group 1                                                11.610000                   -        11.610000         11.160000
+
+
+              Group 2                                                 5.990000          5.620000          11.610000         11.160000
+
+
+              Institutional Income
+
+
+              Group 1                                                 6.080000                   -        6.080000           6.040000
+
+
+              Group 2                                                 1.220000          4.860000          6.080000           6.040000
+
+
+              Institutional Accumulation
+
+
+              Group 1                                                12.690000                   -       12.690000          12.170000
+
+
+              Group 2                                                 1.860000         10.830000         12.690000          12.170000
+
+
+              Income C
+
+
+              Group 1                                                 6.010000                   -         6.010000          5.970000
+
+
+              Group 2                                                 3.400000          2.610000           6.010000          5.970000
+
+
+              Accumulation C
+
+
+              Group 1                                                12.090000                   -       12.090000          11.600000
+
+
+              Group 2                                                 5.900000          6.190000         12.090000          11.600000
+
+
+            56   FTSE ALL-SHARE INDEX FUND
+
+
+            Notes to the Financial Statements
+
+
+            for the year ended 15 May 2024
+
+
+                                                                                                           15.5.24              15.5.23
+
+
+                                                                                                             £’000                £’000
+
+
+            1.  Accounting Policies
+
+
+                The accounting policies are set out on pages 10 and 11.
+
+
+            2.  Net Capital Gains
+
+
+                The net capital gains during the year comprise:
+
+
+                Currency losses                                                                                (34)                (239)
+
+
+                Transaction charges                                                                             (9)                  (1)
+
+
+                Capital special dividends                                                                    4,216                  998
+
+
+                Gains on derivative contracts                                                                3,086                4,182
+
+
+                (Losses)/gains on forward foreign currency contracts                                           (67)                 117
+
+
+                Gains on non-derivative securities                                                        173,742                74,505
+
+
+                Net capital gains                                                                         180,934                79,562
+
+
+            3.  Revenue
+
+
+                UK dividends (net)                                                                          71,766               70,812
+
+
+                Property investment income                                                                   2,048                1,611
+
+
+                Overseas dividends                                                                           3,345                4,059
+
+
+                Deposit interest                                                                               155                  105
+
+
+                Bank interest                                                                                  773                  473
+
+
+                Stock dividends                                                                                 56                   99
+
+
+                Stock lending income                                                                           239                  399
+
+
+                Total revenue                                                                              78,382                77,558
+
+
+            4.  Expenses
+
+
+                Payable to the ACD, associates of the ACD, and agents of either of them:
+
+
+                ACD's charge                                                                                  921                   810
+
+
+                Safe custody fee                                                                                38                   33
+
+
+                                                                                                               959                  843
+
+
+                Payable to the Depositary, associates of the Depositary,
+
+
+                and agents of either of them:
+
+
+                Depositary fee                                                                                161                   172
+
+
+                Other expenses:
+
+
+                Audit fee                                                                                        9                    9
+
+
+                Report and accounts fee                                                                          1                    1
+
+
+                Licence fee                                                                                    292                  279
+
+
+                Professional fee                                                                                 2                     -
+
+
+                                                                                                               304                  289
+
+
+                Total expenses                                                                               1,424                1,304
+
+
+            57   FTSE ALL-SHARE INDEX FUND
+
+
+                                                                                                           15.5.24              15.5.23
+
+
+                                                                                                             £’000                £’000
+
+
+            5.  Taxation
+
+
+            a)  Analysis of tax charge/(credit) in the year:
+
+
+                Overseas tax                                                                                    73                   95
+
+
+                Total current tax charge for the year (note 5b)                                                 73                   95
+
+
+                Deferred tax (note 5c)                                                                      (1,042)                    -
+
+
+                Total tax for the year (note 5b)                                                              (969)                  95
+
+
+            b)  Factors affecting taxation charge for the year:
+
+
+                The tax assessed for the year is lower (2023: lower) than the standard rate
+
+
+                of corporation tax in the UK for an open-ended investment company (20%).
+
+
+                The differences are explained below:
+
+
+                Net revenue before taxation                                                                 76,952               76,246
+
+
+                Corporation tax at 20%                                                                     15,390                15,249
+
+
+                Effects of:
+
+
+                Revenue not subject to taxation                                                            (15,033)             (14,994)
+
+
+                Irrecoverable overseas tax                                                                      73                   95
+
+
+                Utilisation of excess management expenses                                                   (1,399)                (255)
+
+
+                Total tax charge for the year (note 5a)                                                       (969)                  95
+
+
+            c)  Provision for deferred taxation
+
+
+                Provision at start of year                                                                       -                     -
+
+
+                Deferred tax credit in profit and loss account for the year (note 5a)                        1,042                     -
+
+
+                Provision at end of year (note 5a)                                                           1,042                     -
+
+
+                At 15 May 2024, there is a potential deferred tax asset of £2,071,831 (15.5.23: £3,471,021) in relation to surplus
+
+
+                management expenses of £10,359,153 (15.5.23: £17,355,105).
+
+
+            6.  Distributions
+
+
+                The distributions take account of amounts received on the issue of shares
+
+
+                and amounts deducted on the cancellation of shares, and comprise:
+
+
+                Interim dividend distribution                                                              36,657                37,457
+
+
+                Final dividend distribution                                                                40,649                39,678
+
+
+                                                                                                            77,306               77,135
+
+
+                Add: Amounts deducted on cancellation of shares                                              3,501                3,823
+
+
+                Deduct: Amounts received on issue of shares                                                 (3,940)              (4,807)
+
+
+                Net distribution for the year                                                               76,867               76,151
+
+
+            7.  Movement Between Net Revenue and Distributions
+
+
+                Net revenue after taxation                                                                  77,921               76,151
+
+
+                Equalisation on conversions                                                                    (12)                    -
+
+
+                Deferred tax relief transferred to capital                                                  (1,042)                    -
+
+
+                Net distribution for the year                                                               76,867               76,151
+
+
+            8.  Debtors
+
+
+                Amounts receivable for creation of shares                                                   9,699                 4,815
+
+
+                Sales awaiting settlement                                                                     568                 2,032
+
+
+                Accrued revenue                                                                            12,668                10,579
+
+
+                Overseas tax recoverable                                                                      443                   749
+
+
+                Income tax recoverable                                                                           -                    1
+
+
+                Deferred tax                                                                                1,042                      -
+
+
+                Total debtors                                                                               24,420               18,176
+
+
+            9.  Other Creditors
+
+
+                Amounts payable for cancellation of shares                                                    803                 3,510
+
+
+                Purchases awaiting settlement                                                                    -                   82
+
+
+                Accrued expenses                                                                              211                  285
+
+
+                Total other creditors                                                                        1,014                3,877
+
+
+            58   FTSE ALL-SHARE INDEX FUND
+
+
+            10. Reconciliation of Shares
+
+
+                                                                                                Retail       Retail       Institutional
+
+
+                                                                                               Income    Accumulation       Income
+
+
+                Opening shares issued at 16.5.23                                               54,778      16,783,264      34,421,343
+
+
+                Share movements 16.5.23 to 15.5.24
+
+
+                Shares issued                                                                   19,609         113,053     13,076,388
+
+
+                Shares cancelled                                                               (14,433)     (1,922,620)    (18,730,001)
+
+
+                Shares converted                                                                      -     3,782,207          (86,396)
+
+
+                Closing shares issued at 15.5.24                                               59,954      18,755,904      28,681,334
+
+
+                                                                                          Institutional      Income      Accumulation
+
+
+                                                                                         Accumulation           C              C
+
+
+                Opening shares issued at 16.5.23                                            6,348,841     125,662,507     203,174,025
+
+
+                Share movements 16.5.23 to 15.5.24
+
+
+                Shares issued                                                               1,604,534       8,324,960       27,015,573
+
+
+                Shares cancelled                                                            (1,673,025)    (18,594,197)    (34,863,011)
+
+
+                Shares converted                                                              (513,556)       689,049       (3,507,075)
+
+
+                Closing shares issued at 15.5.24                                            5,766,794     116,082,319     191,819,512
+
+
+            11. Ultimate Controlling Party and Related Party Transactions
+
+
+                The ACD is regarded as a controlling party of the Fund by virtue of having the ability to act in concert in respect of Fund
+
+
+                operations. The ultimate controlling party of the ACD is HSBC Group plc.
+
+
+                This entity and its subsidiaries are also related parties of the Fund.
+
+
+                At the year end, the ACD and its associates held the following of the Fund's shares in issue:
+
+
+                                                       Retail        Retail     Institutional  Institutional   Income     Accumulation
+
+
+                                                      Income     Accumulation      Income     Accumulation        C             C
+
+
+                                                         %             %             %             %             %              %
+
+
+                As at 15.5.24                            -              -          93.95         87.16          5.12          2.89
+
+
+                As at 15.5.23                            -              -          95.07         85.35          5.01          2.94
+
+
+                Details of all other material related party transactions during the year and any payment amounts outstanding at the
+
+
+                balance sheet date are disclosed in notes 8 and 9 to the financial statements and the Statement of Change in Net Assets
+
+
+                Attributable to Shareholders and the Portfolio Statement.
+
+
+                The balance due from the ACD (including amounts due to associates and agents) at the year end was £8,847,875
+
+
+                (15.5.23: £1,181,491). Further details of such amounts can be found in notes 8 and 9.
+
+
+                At the year end, the Fund held £125,707,153 (15.5.23: £115,937,257) in Authorised Investment Funds managed by HSBC
+
+
+                and HSBC Holdings, the parent company of the ACD. During the period, transactions in Authorised Investment Funds
+
+
+                managed by HSBC and HSBC Holdings totalled £22,513,540 (15.5.23: £22,019,183).
+
+
+                Investments in related parties are disclosed in the Portfolio Statement.
+
+
+            59   FTSE ALL-SHARE INDEX FUND
+
+
+            12. Financial Instruments
+
+
+                The financial instrument risks and risk management policies are set out on pages 12 and 13.
+
+
+                Foreign Currency Risk
+
+
+                A portion of the net assets of the Fund are denominated in currencies other than sterling with the effect that the balance
+
+
+                sheet and total return can be significantly affected by currency movements.
+
+
+                Net currency monetary assets and liabilities consist of:
+
+
+                                                   Portfolio of                     Net other                           Net
+
+
+                                                  investments                         assets                           assets
+
+
+                                               15.5.24         15.5.23         15.5.24          15.5.23         15.5.24         15.5.23
+
+
+                                                 £'000           £'000           £'000           £'000            £'000           £'000
+
+
+                Sterling*                   2,293,633       2,181,202          48,336          46,282        2,341,969       2,227,484
+
+
+                Euro                                 -               -            919            2,938             919           2,938
+
+
+                Georgian lari                        -               -               -              42                -             42
+
+
+                United States dollar               81              (34)         6,457            3,382           6,538           3,348
+
+
+                Total                       2,293,714       2,181,168          55,712          52,644        2,349,426       2,233,812
+
+
+                *No currency risk as Sterling is the base currency.
+
+
+                Interest Rate Risk
+
+
+                At the year end, 1.80% (15.5.23: 2.19%) of the Fund's assets by value were interest-bearing.
+
+
+                Interest rates are based upon HSBC’s proprietary rates, with the exception of GBP debit rate which is linked to Bank of
+
+
+                England rate.
+
+
+            13. Shareholders’ Funds
+
+
+                This Fund has a retail share class, an institutional share class and a C share class.
+
+
+                The annual ACD charge on the retail share class is 0.14%, nil on the institutional share class, and 0.04% on the C share class.
+
+
+                The net asset value of the share class, the net asset value per share and the number of shares in each class are given in the
+
+
+                Comparative Tables on pages 50 to 52. The distribution per share class is given in the Distribution Tables on pages 54 and 55.
+
+
+                All share classes within the OEIC have the same rights on winding up.
+
+
+            14. Stock Lending Activities
+
+
+                Revenue earned from these activities is shown in note 3 and is net of bank and agents fees amounting to £79,827
+
+
+                (15.5.23: £133,077) payable to HSBC Bank plc.
+
+
+            60   FTSE ALL-SHARE INDEX FUND
+
+
+            15. Financial Derivatives
+
+
+                The Fund has used financial derivatives for hedging and meeting investment objectives including risk reduction and
+
+
+                implementation of investment policies.
+
+
+                The use of derivatives can create additional counterparty risks. Details of the policy adopted by the ACD for managing
+
+
+                counterparty and other risks are set out in the Notes to the Financial Statements.
+
+
+                The types of derivatives held at the year end were index futures and forward currency contracts. Details of the individual
+
+
+                contracts are shown on the Portfolio Statement on pages 36 to 49, and the total position by the counterparty at the year
+
+
+                end is summarised below. The underlying exposure for each category of derivatives were as follows:
+
+
+                                                                              Forward Currency                       Total
+
+
+                Counterparty
+
+
+                                                                                     £’000                           £’000
+
+
+                                                                              2024            2023            2024            2023
+
+
+                Merrill Lynch                                                    81               -              81               -
+
+
+                The economic exposure of future derivative contracts is equal to the market value. The value of exposure and the related
+
+
+                counterparty are disclosed in the Portfolio Statement.
+
+
+                Eligible collateral types are approved by the ACD and may consist of cash, UK gilts, certificates of deposit, treasury bills,
+
+
+                sovereign debt, eurosterling bonds and equities.
+
+
+                At 15 May 2024, there was no collateral held in respect of the above derivatives (15.5.23: £nil).
+
+
+            16. Contingent Liabilities and Commitments
+
+
+                At the year end, the Fund had no contingent liabilities or commitments (15.5.23: none).
+
+
+            17. Portfolio Transaction Costs
+
+
+                For the year ended 15 May 2024               Purchases        Commissions          Taxes             Other Expenses
+
+
+                                                                  £'000      £’000         %      £’000         %      £’000         %
+
+
+                Analysis of total purchases costs
+
+
+                Equity transactions                             214,655         46      0.02        926       0.43         77      0.04
+
+
+                Corporate actions                                   249           -          -         -          -         -          -
+
+
+                Total purchases before transaction costs        214,904         46                  926                    77
+
+
+                Transaction costs                                 1,049
+
+
+                Total purchases after commission, tax and fees  215,953
+
+
+                                                                  Sales       Commissions               Taxes        Other Expenses
+
+
+                                                                  £'000      £’000         %      £’000         %      £’000         %
+
+
+                Analysis of total sales costs
+
+
+                Equity transactions                             266,235         54      0.02           -          -         -          -
+
+
+                Corporate actions                                11,726           -          -         -          -         -          -
+
+
+                Total sales before transaction costs            277,961         54                     -                    -
+
+
+                Transaction costs                                   (54)
+
+
+                Total sales after commission, tax and fees      277,907
+
+
+                The Fund had paid £14,024 as commission on purchases and sales derivative transactions for the year ended 15.5.24.
+
+
+                Commissions, taxes and fees as % of average net assets:
+
+
+                Commissions            0.01%
+
+
+                Taxes                  0.04%
+
+
+                Other expenses         0.00%
+
+
+                At the balance sheet date the portfolio dealing spread was 0.06%, being the difference between the respective bid and
+
+
+                offer prices for the Fund's investments.
+
+
+            61   FTSE ALL-SHARE INDEX FUND
+
+
+                For the year ended 15 May 2023               Purchases        Commissions              Taxes          Other Expenses
+
+
+                                                                  £'000      £’000         %      £’000         %       £’000         %
+
+
+                Analysis of total purchases costs
+
+
+                Equity transactions                             303,698         47       0.02     1,388       0.46         37      0.01
+
+
+                Corporate actions                                 2,044           -          -         -          -          -         -
+
+
+                Total purchases before transaction costs        305,742         47                1,388                    37
+
+
+                Transaction costs                                 1,472
+
+
+                Total purchases after commission, tax and fees   307,214
+
+
+                                                                  Sales        Commissions             Taxes          Other Expenses
+
+
+                                                                  £'000      £’000         %      £’000         %       £’000         %
+
+
+                Analysis of total sales costs
+
+
+                Equity transactions                             200,783         44      0.02           -          -         1          -
+
+
+                Corporate actions                                32,813           -         -          -          -         -          -
+
+
+                Total sales before transaction costs            233,596        44                      -                    1
+
+
+                Transaction costs                                   (45)
+
+
+                Total sales after commission, tax and fees      233,551
+
+
+                The Fund had paid £17,522 as commission on purchases and sales derivative transactions for the year ended 15.5.23.
+
+
+                Commissions, taxes and fees as % of average net assets:
+
+
+                Commissions            0.01%
+
+
+                Taxes                  0.06%
+
+
+                Other expenses         0.00%
+
+
+                At the balance sheet date the portfolio dealing spread was 0.06%, being the difference between the respective bid and
+
+
+                offer prices for the Fund's investments.
+
+
+                Portfolio transaction costs are incurred by the Fund when buying and selling underlying investments. These costs vary
+
+
+                depending on the class of investment, country of exchange and method of execution.
+
+
+                These costs can be classified as either direct or indirect transaction costs:
+
+
+                     Direct transaction costs: Broker commissions, fees and taxes.
+
+
+                     Indirect transaction costs: ‘Dealing spread’ – the difference between the buying and selling prices of the
+
+
+                     Fund’s underlying investments.
+
+
+                In order to protect existing investors from the effects of dilution, portfolio transaction costs incurred as a re ult of
+
+
+                investors buying and selling shares in the Fund are recovered from those investors through a ‘dilution adjustment’ to the
+
+
+                price they pay or receive.
+
+
+            62   FTSE ALL-SHARE INDEX FUND
+
+
+            18. Fair Value of Investments
+
+
+                FRS 102 requires an entity to classify fair value measurements using a fair value hierarchy that reflects the significance of
+
+
+                the inputs used in making the measurements. The fair value hierarchy shall have the following classifications:
+
+
+                Level 1:      unadjusted quoted prices in an active market for identical assets or liabilities that the entity can access at
+
+
+                              the measurement date.
+
+
+                Level 2:      inputs other than quoted prices included within Level 1 that are observable (i.e. developed using market
+
+
+                              data) for the asset or liability, either directly or indirectly.
+
+
+                Level 3:      inputs are unobservable (i.e. for which market data is unavailable) for the asset or liability.
+
+
+                For the year ended 15 May 2024
+
+
+                Category                                                                 1              2              3          Total
+
+
+                Investment Assets                                                    £'000          £'000          £'000          £'000
+
+
+                Equities                                                        2,292,482                -          446      2,292,928
+
+
+                Derivatives                                                            705            81                -          786
+
+
+                                                                                2,293,187              81           446      2,293,714
+
+
+                For the year ended 15 May 2023
+
+
+                Category                                                                 1              2              3          Total
+
+
+                Investment Assets                                                    £'000          £'000          £'000          £'000
+
+
+                Equities                                                         2,180,486               -           610     2,181,096
+
+
+                Derivatives                                                            106               -              -           106
+
+
+                                                                                 2,180,592               -           610     2,181,202
+
+
+                Investment Liabilities                                               £'000          £'000          £'000          £'000
+
+
+                Derivatives                                                               -           (34)              -           (34)
+
+
+                                                                                          -           (34)              -           (34)
+
+
+                At the current year end, the level 3 assets held was Home REIT. Home REIT was priced by the Pricing & Valuations
+
+
+                Committee in consultation with market information and the portfolio manager.
+
+
+            19. Sensitivity Analysis
+
+
+                Price risk sensitivity:
+
+
+                If the price of investments at 15 May 2024 had increased or decreased by 10% with all other variables held constant, this
+
+
+                would have increased or decreased the net assets attributable to shareholders by £229,371,414 (15.5.23: £218,116,758).
+
+
+                Currency risk sensitivity:
+
+
+                If the exchange rate at 15 May 2024 had increased or decreased by 10% with all other variables held constant, this would
+
+
+                have increased or decreased the net assets attributable to shareholders by £745,718 (15.5.23: £632,786).
+
+
+                Interest rate risk sensitivity:
+
+
+                 At the balance sheet date, the Fund did not have a significant exposure to interest rate risk, therefore no sensitivity
+
+
+                analysis is disclosed (15.5.23: no significant exposure).
+
